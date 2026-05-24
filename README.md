@@ -37,6 +37,36 @@ StockFlow es una aplicación web moderna para la gestión de inventario, diseña
 | **Backend** | Supabase (PostgreSQL + Auth + Storage) |
 | **Gráficos** | Recharts 3 |
 
+## 📸 Capturas de pantalla
+
+### Dashboard
+Panel principal con métricas clave (total productos, ventas del mes, stock bajo) y gráfico de ventas mensuales.
+
+![Dashboard](assets/images/dashboard.png)
+
+### Historial de Ventas
+Listado completo de ventas con opción de eliminar registros.
+
+![Historial de Ventas](assets/images/sales-history.png)
+
+### Perfil de Usuario
+Edición de datos personales, visualización del plan (FREE/PREMIUM) y fecha de registro.
+
+![Perfil de Usuario](assets/images/profile.png)
+
+### Búsqueda y Filtros en Ventas
+Filtrado de ventas por nombre de producto y rango de fechas, con persistencia en URL.
+
+![Filtros en Ventas](assets/images/sales-filters.png)
+
+### Catálogo Público
+*(Agregar captura cuando tengas)*
+Tienda pública accesible sin autenticación para los clientes.
+
+### Gestión de Productos
+*(Agregar captura cuando tengas)*
+Listado de productos con opciones de edición, eliminación y registro de ventas.
+
 ## 📦 Instalación
 
 ### Requisitos previos
